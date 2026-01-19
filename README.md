@@ -43,3 +43,7 @@ Pivot tables simplify large data analysis.
 📌 Note
 
 This project demonstrates core Data Analyst skills: data cleaning, exploratory data analysis (EDA), and dashboard creation using Excel.
+
+👤 Author
+
+Usama Younas Aspiring Data Analyst | Excel • SQL • Data Visualization
